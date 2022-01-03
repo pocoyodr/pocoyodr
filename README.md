@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pocoyodr
 - 👀 I’m interested in learning Python, Javascript, GO.
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on not sure since I am just getting back into the IT world.
+- 💞️ I’m looking to collaborate on anything python.
 - 📫 How to reach me Twitter: dominitoy
 - I am looking to learn as much as possible to get back into the career I love.
 
